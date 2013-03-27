@@ -1,18 +1,21 @@
 # [Start Boilerplate]
 
 ## Quick start
-You don't need nothing to install this boilerplate.
-It is a package using Backbone and Require.js
+You don't need nothing to install this boilerplate. It is a package using Jquery, Backbone and Require.js
+
 Also others libraries and plugins like: 
-* Twitter Bootstrap
-* HTML5 Boilerplate
-* Jade engine template
-* Lodash
-
-Prepare for multilanguage support and it's using the event aggregator pattern for views comunication (see comparator)
+* Twitter Bootstrap (http://twitter.github.com/bootstrap/)
+* HTML5 Boilerplate (http://html5boilerplate.com/)
+* Jade engine template (http://jade-lang.com/)
+* Lodash (http://lodash.com/)
+* Amplify (for LocalStorage: https://github.com/dev360/Backbone.amplify)
+* Highcharts (not used, but added to require. More info: (http://www.highcharts.com/)
+* Datatable (Sort tables: http://www.datatables.net/)
+Prepare for multilanguage support and it's using the event aggregator pattern for views comunication (see mediator)
 More info: (http://lostechies.com/derickbailey/2012/04/03/revisiting-the-backbone-event-aggregator-lessons-learned/)
-## Features
 
+## Features
+* Local Storage as a Data Base.
 * HTML5 ready. Use the new elements with confidence.
 * Cross-browser compatible (Chrome, Opera, Safari, Firefox 3.6+, IE6+).
 * Designed with progressive enhancement in mind.
